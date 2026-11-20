@@ -1,0 +1,144 @@
+<mxfile host="65bd71144e">
+    <diagram id="npfqIBTj4vQFh1McNJoP" name="Page-1">
+        <mxGraphModel dx="1850" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-1" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Peserta" vertex="1">
+                    <mxGeometry height="1660" width="380" x="20" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-33" parent="Dg3r_mM1aCGgpNd074_C-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;membatalkan pendaftaran (&lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); white-space: nowrap; font-size: 11px; color: rgb(0, 0, 0);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;&lt;div style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); white-space: nowrap; color: rgb(63, 63, 63);&quot;&gt;&lt;font style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); font-size: 11px; color: rgb(63, 63, 63);&quot;&gt;condition: ya memilih batalkan pendaftaran&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); white-space: nowrap; color: rgb(63, 63, 63);&quot;&gt;&lt;font style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); font-size: 11px; color: rgb(63, 63, 63);&quot;&gt;extension point: kegiatan terdaftar)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="230" x="75" y="1160" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-36" parent="Dg3r_mM1aCGgpNd074_C-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="175" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-2" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+                    <mxGeometry height="1660" width="380" x="400" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-3" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;buka fungsi lihat daftar kegiatan&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="-280" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-6" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;Memilih kegiatan&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="-280" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-10" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Mengisi Formulir pendaftaran&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="-280" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-41" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-26" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-38">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-350" y="860"/>
+                            <mxPoint x="-350" y="1480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-26" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;menerima Pemberitahuan Pendaftaran tidak bisa dilaksanakan&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="-290" y="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-42" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-28" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-38">
+                    <mxGeometry relative="1" x="0.0784" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-330" y="1010"/>
+                            <mxPoint x="-330" y="1380"/>
+                            <mxPoint x="200" y="1380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-28" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;Mencetak Kartu ( &lt;/span&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); white-space: nowrap; font-size: 11px; color: rgb(0, 0, 0);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;&lt;div style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); white-space: nowrap; color: rgb(63, 63, 63);&quot;&gt;&lt;div style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); font-family: Arial; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); font-size: 11px; color: rgb(63, 63, 63);&quot;&gt;condition : ya, memilih&amp;nbsp; cetak kartu&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); white-space: nowrap; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); font-family: Arial; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); font-size: 11px; color: rgb(63, 63, 63);&quot;&gt;extention point : peserta terdaftar)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="-280" y="980" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-4" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;menampilkan daftar kegiatan UKM beserta kuotanya&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="100" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-8" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;menampilkan&amp;nbsp; formulir pendaftaran&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="100" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-15" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-11" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;memeriksa ketersediaan kuota (dari include &lt;/span&gt;&lt;font face=&quot;Arial-BoldMT&quot; style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;&lt;b style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;SIU-UC03)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="110" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-17" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-14" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Dg3r_mM1aCGgpNd074_C-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="730" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-18" connectable="0" parent="Dg3r_mM1aCGgpNd074_C-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="[ya, kuota tersedia]" vertex="1">
+                    <mxGeometry relative="1" x="-0.2098" y="2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-20" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-14" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-21" connectable="0" parent="Dg3r_mM1aCGgpNd074_C-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="[tidak, kuota tidak tersedia]" vertex="1">
+                    <mxGeometry relative="1" x="0.1403" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-14" parent="Dg3r_mM1aCGgpNd074_C-2" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="apakah kuota tersedia?" vertex="1">
+                    <mxGeometry height="80" width="120" x="140" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-25" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-16" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;mencatat pendaftaran dengan status Terdaftar&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="200" y="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-19" parent="Dg3r_mM1aCGgpNd074_C-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;menampilkan pesan kuota tidak tersedia dan pendaftaran tidak disimpan&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="10" y="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-24" parent="Dg3r_mM1aCGgpNd074_C-2" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="konfirmasi pendaftaran (cetak kartu atau batalkan)?" vertex="1">
+                    <mxGeometry height="100" width="150" x="215" y="960" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-5" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-3" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-7" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-4" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-9" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-6" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-12" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-10" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-13" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-8" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-27" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-19" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-29" edge="1" parent="Dg3r_mM1aCGgpNd074_C-2" source="Dg3r_mM1aCGgpNd074_C-24" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-90" y="1040" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-32" connectable="0" parent="Dg3r_mM1aCGgpNd074_C-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="[ya, cetak kartu]" vertex="1">
+                    <mxGeometry relative="1" x="-0.5648" y="2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-38" parent="Dg3r_mM1aCGgpNd074_C-2" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+                    <mxGeometry height="60" width="60" x="170" y="1450" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-34" edge="1" parent="1" source="Dg3r_mM1aCGgpNd074_C-24" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-35" connectable="0" parent="Dg3r_mM1aCGgpNd074_C-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="[batalkan pendaftaran]" vertex="1">
+                    <mxGeometry relative="1" x="0.0526" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-37" edge="1" parent="1" source="Dg3r_mM1aCGgpNd074_C-36" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Dg3r_mM1aCGgpNd074_C-39" edge="1" parent="1" source="Dg3r_mM1aCGgpNd074_C-33" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Dg3r_mM1aCGgpNd074_C-38">
+                    <mxGeometry relative="1" x="-0.1143" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
